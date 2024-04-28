@@ -45,3 +45,12 @@ button {
 
 
 /* breadcrumbs */
+header nav{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.navigators{
+  display: flex;
+  gap: 12px;
+}
